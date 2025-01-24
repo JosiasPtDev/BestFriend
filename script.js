@@ -5,7 +5,7 @@ var imgWidth = 120; // Image width
 var imgHeight = 170; // Image height
 
 var bgMusicURL = './La_Mujer_Perfecta.mp3'; // Background music URL
-var bgMusicControls = false; // Show controls for background music
+var bgMusicControls = true; // Show controls for background music
 
 setTimeout(init, 1000);
 
